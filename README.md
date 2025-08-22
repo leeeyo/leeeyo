@@ -12,7 +12,7 @@ Here are some of the key technologies I work with:
 
 | CI/CD & Automation | Security & Authentication | Development & Infrastructure |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=jenkins,docker,ansible,terraform" /> | <img src="https://skillicons.dev/icons?i=linux" /> <br/> LDAP, Wazuh, Suricata | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,py,java,gradle,nginx" /> |
+| <img src="https://skillicons.dev/icons?i=jenkins,docker,ansible,terraform" /> | <img src="https://skillicons.dev/icons?i=linux" /> <br/> LDAP, Wazuh, VirusTotal | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,py,java,gradle,nginx" /> |
 
 ---
 
