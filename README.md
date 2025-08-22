@@ -1,14 +1,14 @@
 # Hi, I'm Mohamed Aziz Allaya 👋
 
-### Aspiring DevOps & Cybersecurity Engineer
+### Cybersecurity Student
 
-I am a passionate and driven technology student from Tunisia, specializing in building secure, automated, and efficient software delivery pipelines. My goal is to leverage my skills in DevOps and Cybersecurity to create resilient and reliable infrastructure. I thrive on solving complex problems, from configuring enterprise-grade authentication systems to developing full-stack monitoring applications.
+I'm a tech student from Tunisia with a deep curiosity for how great software is built and kept safe. I'm fascinated by the intersection of DevOps and Cybersecurity—building automated systems that are not just efficient, but also secure from the ground up. For me, the real thrill comes from solving a complex puzzle, whether it's configuring a full CI/CD pipeline or developing a tool to track down security threats.
 
 ---
 
-### 🛠️ My Tech Stack & Skills
+### 🛠️ My Toolkit
 
-Here are some of the key technologies I work with:
+Here are some of the tools and technologies I enjoy working with:
 
 | CI/CD & Automation | Security & Authentication | Development & Infrastructure |
 | :---: | :---: | :---: |
@@ -16,19 +16,22 @@ Here are some of the key technologies I work with:
 
 ---
 
-### 🚀 My Featured Projects
+### 🚀 A Couple of My Favorite Projects
 
-These projects represent my ability to build and manage complete, end-to-end systems.
-
-| Project | Description | Technologies |
-| :--- | :--- | :--- |
-| 🛡️ **SOC Dashboard** | A full-stack Security Operations Center (SOC) dashboard to ingest, centralize, and visualize security alerts from **Wazuh (HIDS)** and **Suricata (NIDS)**. | `Next.js`, `TypeScript`, `Python (FastAPI)`, `Wazuh`, `Suricata` |
-| 🏦 **Bank Complaints Dashboard** | A full-stack analytics dashboard built for STB Bank to monitor and analyze customer complaints from digital channels, providing key insights through data visualization. | `Next.js`, `TypeScript`, `Recharts`, `TailwindCSS` |
+Here are a few projects I've poured my time into. They represent my passion for building complete, end-to-end systems.
 
 ---
+#### ⚙️ Self-Hosted DevOps Platform
+This was my deep-dive into the world of CI/CD. I built and configured an entire DevOps ecosystem from scratch on a single server. It includes a Git server, CI/CD automation, an artifact registry, and a code quality scanner, with every tool secured by a central LDAP server.
+* **Technologies:** `Jenkins`, `Docker`, `Nginx`, `Nexus`, `Forgejo`, `LDAP`
+* **[Link to Infrastructure Code on GitHub &raquo;]** ---
+#### 🛡️ Security Operations Center (SOC) Dashboard
+As a cybersecurity enthusiast, I wanted to build a practical tool for monitoring threats. I created this full-stack dashboard to pull in and visualize real-time security alerts from industry-standard tools like Wazuh and Suricata, providing actionable insights for security analysts.
+* **Technologies:** `Next.js`, `TypeScript`, `Python (FastAPI)`, `Wazuh`, `Suricata`
+* **[Link to Dashboard Code on GitHub &raquo;]** ---
 
-### 📫 How to Reach Me
+### 📫 Let's Connect
 
-I'm always open to connecting and discussing new opportunities.
+Feel free to reach out—I'm always happy to talk about tech, new opportunities, or interesting projects!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Aziz%20Allaya-0A66C2?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/YOUR-LINKEDIN-URL/](https://www.linkedin.com/in/mohamed-aziz-allaya-930ab537b))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Aziz%20Allaya-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-aziz-allaya-930ab537b/)
